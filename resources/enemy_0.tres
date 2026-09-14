@@ -1,0 +1,9 @@
+[gd_resource type="Resource" script_class="EnemyStats" load_steps=2 format=3]
+[ext_resource type="Script" path="res://scripts/enemy_stats.gd" id="1"]
+[resource]
+script = ExtResource("1")
+kind = 0
+health = 1
+points = 100
+tint = Color(0.33725490196078434, 0.9098039215686274, 0.9372549019607843, 1.0)
+fire_interval = 4.0

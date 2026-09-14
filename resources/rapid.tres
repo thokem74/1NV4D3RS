@@ -1,0 +1,7 @@
+[gd_resource type="Resource" script_class="PickupEffect" load_steps=2 format=3]
+[ext_resource type="Script" path="res://scripts/pickup_effect.gd" id="1"]
+[resource]
+script = ExtResource("1")
+kind = "rapid"
+duration = 10.0
+tint = Color(1.0, 0.8784313725490196, 0.5411764705882353, 1.0)
